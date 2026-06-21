@@ -1,4 +1,4 @@
-## <img width="1200" height="240" alt="Image" src="https://github.com/user-attachments/assets/39b8beaf-eaf4-4473-9029-23c8caf1827a" />
+## <img width="720" height="144" alt="Image" src="https://github.com/user-attachments/assets/723d4c98-c264-4d97-8991-96bd6b914f73" />
 
 <!--
 **sheikhxrafi/sheikhxrafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
